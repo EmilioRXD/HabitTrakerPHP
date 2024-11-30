@@ -6,7 +6,7 @@ function connection()
     $user = "root";
     $pass = "";
 
-    $bd = "habitTracker";
+    $bd = "IUTA";
 
     $connect = mysqli_connect($host, $user, $pass);
 
